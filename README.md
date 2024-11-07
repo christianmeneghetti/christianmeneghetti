@@ -2,7 +2,7 @@
 
 🔎 About me:
   - 🐱‍👤 I'm currently working on KaBuM!
-  - 📚 I'm Studyin Computer Engineer on FHO - Uniararas.
+  - 📚 I graduated in computer engineering from FHO - Uniararas
   - 🎮 If im not working or studying, I'll probably be playing video games.
 
 <div align="center">
